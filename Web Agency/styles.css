@@ -1,0 +1,37 @@
+.hero{
+    font: Orbitron;
+    background-image: url(img/faded-office.png);
+    background-size: cover;
+    padding:0px 50px 250px;
+    padding-top: 10px;
+    padding-right: 10px;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Orbitron', sans-serif;
+    
+
+}
+
+body{
+    margin: 0px;
+}
+#title{
+    font-size: 60px;
+    color: #020202;
+    font-weight: 800;
+}
+.text{
+    font-size: 30px;
+}
+.btn{
+    font-size: 30px;
+    box-shadow:2px 5px 10px #020202;
+    color: white;
+    background-color: #0ea5e9;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+.under{
+ border-bottom: 7px solid #0ea5e9;
+}
